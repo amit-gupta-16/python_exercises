@@ -1,4 +1,4 @@
-# Game Development: Snake water gun
+# Game Development: Snake water gun game
 print("\t\t\t\t::Snake Water Gun Game:: \n\n   ")
 print("Rule of playing game:\nYou have 10 chance\nchoose 'S','W','G' to play game\n")
 import random
