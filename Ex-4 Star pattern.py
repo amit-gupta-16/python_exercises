@@ -20,11 +20,6 @@ elif b == False:
         print(a * "*")
         n = n - 1
 
-
-
-
-
-
 # This is amit's code
 
 
